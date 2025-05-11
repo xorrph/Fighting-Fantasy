@@ -1,0 +1,22 @@
+x
+healing potion
+iron armour
+green door
+magic potion
+red door 
+blue key
+strength potion
+red key
+blue door
+green door
+force field
+type1 minion
+healing potion
+type2 minion
+red key
+type3 minion
+blue door
+green key
+blue key
+magic potion
+strength potion
